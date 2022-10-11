@@ -26,12 +26,12 @@
 
 Products API using NestJS.
 
-Credits to [FakeStoreAPI](https://fakestoreapi.com/docs) for the data.
+This project is for demonstration purpose only, No Copyright Intended.
+
+# Guide
 
 You must have [NodeJS](https://nodejs.org) installed in your machine.
 To install, click this [link](https://nodejs.org/en/download/)
-
-# Guide
 
 The default url when running the api is http://localhost:3000/api/v1
 
@@ -77,6 +77,6 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-# Disclaimer
+# Credits
 
-This project is for demonstration purpose only, No Copyright Intended.
+Credits to [FakeStoreAPI](https://fakestoreapi.com/docs) for the data.
