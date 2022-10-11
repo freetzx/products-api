@@ -33,17 +33,17 @@ This project is for demonstration purpose only, No Copyright Intended.
 You must have [NodeJS](https://nodejs.org) installed in your machine.
 To install, click this [link](https://nodejs.org/en/download/)
 
-The default url when running the api is http://localhost:3000/api/v1
+The default url of the api is https://product-demo-api.herokuapp.com/api/v1
 
 The api has two (2) request
 
 ### [GET] all the products
 
-http://localhost:3000/api/v1/products
+https://product-demo-api.herokuapp.com/api/v1/products
 
 ### [GET] a single product
 
-http://localhost:3000/api/v1/products/634526dff591965853776c2d
+https://product-demo-api.herokuapp.com/api/v1/products/634526dff591965853776c2d
 
 # Installation
 
