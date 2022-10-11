@@ -26,6 +26,8 @@
 
 Products API using NestJS.
 
+This api uses [MongoDB](https://www.mongodb.com/) as its Database.
+
 This project is for demonstration purpose only, No Copyright Intended.
 
 # Guide
